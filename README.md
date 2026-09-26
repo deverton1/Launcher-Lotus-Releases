@@ -10,7 +10,6 @@
   </a>
   <img src="https://img.shields.io/badge/Plataforma-Windows%2010%20%2F%2011%20(64--bit)-0078d4?style=for-the-badge&logo=windows" alt="Windows" />
   <img src="https://img.shields.io/badge/Prote%C3%A7%C3%A3o-Lotus%20Anticheat%20v2.0-10b981?style=for-the-badge&logo=shield" alt="Anticheat Ativo" />
-  <img src="https://img.shields.io/badge/FPS-120%20FPS%20Destravado-f59e0b?style=for-the-badge" alt="FPS Destravado" />
 </p>
 
 ---
