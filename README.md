@@ -35,7 +35,6 @@ Clique no botão abaixo para baixar a versão mais recente do Launcher oficial:
 
 - 🔄 **Atualizações Automáticas (Auto-Updater):** O launcher verifica, baixa e aplica novidades e correções sozinho, sem precisar reinstalar.
 - 🛡️ **Lotus Anticheat Integrado:** Proteção de memória em tempo real, varredura de integridade de arquivos e bloqueio de ferramentas ilegais.
-- 🚀 **Desempenho Otimizado:** Suporte nativo a taxas de quadros elevadas (120 FPS+) e baixa latência (servidor dedicado Brasil).
 - 🔐 **Autenticação Segura:** Login rápido integrado à infraestrutura do Lotus Guardian.
 
 ---
