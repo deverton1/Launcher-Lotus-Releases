@@ -1,4 +1,4 @@
-# <p align="center">🎮 Point Blank Lótus - Launcher Oficial</p>
+# <p align="center">Point Blank Lótus - Launcher Oficial</p>
 
 <p align="center">
   <b>O launcher definitivo com proteção ativa e atualizações automáticas em nuvem.</b>
@@ -12,7 +12,7 @@
 
 ---
 
-## 📥 Download do Instalador
+## Download do Instalador
 
 Clique no botão abaixo para baixar a versão mais recente do Launcher oficial:
 
